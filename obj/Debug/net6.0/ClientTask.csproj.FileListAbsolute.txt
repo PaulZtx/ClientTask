@@ -1,0 +1,15 @@
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\bin\Debug\net6.0\ClientTask.exe
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\bin\Debug\net6.0\ClientTask.deps.json
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\bin\Debug\net6.0\ClientTask.runtimeconfig.json
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\bin\Debug\net6.0\ClientTask.dll
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\bin\Debug\net6.0\ClientTask.pdb
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.csproj.AssemblyReference.cache
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.AssemblyInfoInputs.cache
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.AssemblyInfo.cs
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.csproj.CoreCompileInputs.cache
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.dll
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\refint\ClientTask.dll
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.pdb
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ClientTask.genruntimeconfig.cache
+C:\Users\Pashkevich\RiderProjects\ClientTask\ClientTask\obj\Debug\net6.0\ref\ClientTask.dll
